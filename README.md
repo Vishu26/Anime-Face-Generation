@@ -2,4 +2,4 @@
 
 ## Dataset
 
-![celebA](http://mmlab.ie.cuhk.edu.hk/projects/celeba/intro.png)
+![celebA](celebA.png)
